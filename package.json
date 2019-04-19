@@ -1,0 +1,25 @@
+{
+  "name": "livechatwebsocket-node",
+  "version": "1.0.0",
+  "description": "experimenting the web socket technology using node js & socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arafatrakib1/liveChatWebSocket-node.git"
+  },
+  "author": "rakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arafatrakib1/liveChatWebSocket-node/issues"
+  },
+  "homepage": "https://github.com/arafatrakib1/liveChatWebSocket-node#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11",
+    "socket.io": "^2.2.0"
+  }
+}
